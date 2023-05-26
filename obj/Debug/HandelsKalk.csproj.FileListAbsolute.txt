@@ -1,0 +1,11 @@
+C:\Users\Diego Manuel\Documents\VS\HandelsKalk\obj\Debug\HandelsKalk.csproj.AssemblyReference.cache
+C:\Users\Diego Manuel\Documents\VS\HandelsKalk\obj\Debug\HandelsKalk.csproj.SuggestedBindingRedirects.cache
+C:\Users\Diego Manuel\Documents\VS\HandelsKalk\obj\Debug\AngebotVergleichApp.Form1.resources
+C:\Users\Diego Manuel\Documents\VS\HandelsKalk\obj\Debug\HandelsKalk.Properties.Resources.resources
+C:\Users\Diego Manuel\Documents\VS\HandelsKalk\obj\Debug\HandelsKalk.csproj.GenerateResource.cache
+C:\Users\Diego Manuel\Documents\VS\HandelsKalk\obj\Debug\HandelsKalk.csproj.CoreCompileInputs.cache
+C:\Users\Diego Manuel\Documents\VS\HandelsKalk\bin\Debug\HandelsKalk.exe.config
+C:\Users\Diego Manuel\Documents\VS\HandelsKalk\bin\Debug\HandelsKalk.exe
+C:\Users\Diego Manuel\Documents\VS\HandelsKalk\bin\Debug\HandelsKalk.pdb
+C:\Users\Diego Manuel\Documents\VS\HandelsKalk\obj\Debug\HandelsKalk.exe
+C:\Users\Diego Manuel\Documents\VS\HandelsKalk\obj\Debug\HandelsKalk.pdb
